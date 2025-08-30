@@ -81,4 +81,5 @@ mental_health_predictor/
 
 ## License
 
-This project is for
+This project is for educational purpose
+
